@@ -2,6 +2,8 @@
 
 ---
 
+<h4>👉 I am a front end developer using such technologies as Typescript, React, Redux, also some experience with backend tools, such as NodeJS, MySQL, MongoDB, ExpressJS and also other programming tools. 🪐 I enjoy programming so much, because at the end of each project I get my dopamnine dose from seeing my work is completed and is playing bigger or smaller role in something beautiful built that many will use later. I pay attention to little details in aesthetic look of my work, because I know that details make perfection. 🧩 Also I am always eager to learn something new, and programming is always changing, developing, so there won't be a time when I could know everything and stop fullfilling my desire to learn. </h4>
+
 <h2>🛠️ Languages & Tools:</h2>
 
 <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" /></a></code>
@@ -18,19 +20,14 @@
 
 ---
 
+<h2>⭐️ Stats:</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klibikis&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=klibikis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-Here are some ideas to get you started:
+<h2>📫 How to reach me:</h2>
+<code><a href="https://www.linkedin.com/in/valtsklibikis/" target="_blank" rel="noreferrer"><img src="wordmark.svg]https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="CSS3" /></a></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
