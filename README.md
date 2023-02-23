@@ -22,7 +22,9 @@
 
 <h2>🛠️ Projects:</h2>
 
-<a href="https://s3.gifyu.com/images/RPS.gif" target="_blank" rel="noreferrer"><img src="https://github.com/klibikis/klibikis/blob/main/RPS.gif" width="250" height="150" alt="Rock Paper Scissors" /></a>
+<a href="https://s3.gifyu.com/images/RPS.gif" target="_blank" rel="noreferrer"><img src="https://s3.gifyu.com/images/RPS.gif" width="250" height="150" alt="Rock Paper Scissors" /></a>
+
+<a href="https://s9.gifyu.com/images/React-Blog.gif" target="_blank" rel="noreferrer"><img src="https://s9.gifyu.com/images/React-Blog.gif" width="250" height="150" alt="Restaurants blog" /></a>
 
 ---
 
