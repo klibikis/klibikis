@@ -20,11 +20,15 @@
 
 ---
 
+<h2>🛠️ Projects:</h2>
+
+<a href="[https://getbootstrap.com/](https://github.com/klibikis/23-RPS)" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap" /></a>
+
+---
+
 <h2>⭐️ Stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klibikis&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=klibikis&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
