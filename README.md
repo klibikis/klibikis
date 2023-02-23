@@ -29,5 +29,5 @@
 ---
 
 <h2>📫 How to reach me:</h2>
-<code><a href="https://www.linkedin.com/in/valtsklibikis/" target="_blank" rel="noreferrer"><img src="wordmark.svg]https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="CSS3" /></a></code>
+<code><a href="https://www.linkedin.com/in/valtsklibikis/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="linkedIn" /></a></code>
 
