@@ -22,7 +22,7 @@
 
 <h2>🛠️ Projects:</h2>
 
-<a href="[https://getbootstrap.com/](https://github.com/klibikis/23-RPS)" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap" /></a>
+<a href="https://s3.gifyu.com/images/RPS.gif" target="_blank" rel="noreferrer"><img src="https://s3.gifyu.com/images/RPS.gif" width="300" height="150" alt="Rock Paper Scissors" /></a>
 
 ---
 
