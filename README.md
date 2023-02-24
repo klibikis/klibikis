@@ -30,7 +30,7 @@
 
 <h3>🌮 Restaurants Blog</h3>
 
-<a href="https://s9.gifyu.com/images/React-Blog.gif" target="_blank" rel="noreferrer"><img src="https://s9.gifyu.com/images/React-Blog.gif" width="250" height="150" alt="Restaurants blog" /></a>
+<a href="https://s3.gifyu.com/images/klibikis_21-React-restaurant-blog.gif" target="_blank" rel="noreferrer"><img src="https://github.com/klibikis/klibikis/blob/main/klibikis_21-React-restaurant-blog.gif" width="250" height="150" alt="Restaurants blog" /></a>
 
 <p>Some about info</p>
 
