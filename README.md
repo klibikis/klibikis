@@ -26,13 +26,14 @@
 
 <a href="https://s3.gifyu.com/images/RPS.gif" target="_blank" rel="noreferrer"><img src="https://github.com/klibikis/klibikis/blob/main/RPS.gif" width="250" height="150" alt="Rock Paper Scissors" /></a>
 
-<p>Some about info</p>
+<p>Rock, paper, Scissors game is made with React and i18n translation service on frontend side and expressJS, MySQL inside Docker container on backend.
+Computer choices are randomized and game results saved inside database</p>
 
 <h3>🌮 Restaurants Blog</h3>
 
 <a href="https://s3.gifyu.com/images/klibikis_21-React-restaurant-blog.gif" target="_blank" rel="noreferrer"><img src="https://github.com/klibikis/klibikis/blob/main/klibikis_21-React-restaurant-blog.gif" width="250" height="150" alt="Restaurants blog" /></a>
 
-<p>Some about info</p>
+<p>Restaurant blog is made with React with simple login and possibilities to add restaurant review and post comment for user and additional edit review and delete comment options form Admin user. All data are stored on MySql database and processed using ExpressJS</p>
 
 ---
 
